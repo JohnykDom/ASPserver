@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Bandera';
+    src: url(fonts/BanderaPro/BanderaPro.ttf);
+}
+
+@font-face {
+    font-family: 'BanderaBold';
+    src: url(fonts/BanderaPro/BanderaPro-Bold.ttf);
+}
